@@ -1,0 +1,5 @@
+E:\OpenCommerce\Order\OpenCommerce.Order.AppService\bin\Debug\OpenCommerce.Order.AppService.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.AppService\bin\Debug\OpenCommerce.Order.AppService.pdb
+E:\OpenCommerce\Order\OpenCommerce.Order.AppService\obj\Debug\OpenCommerce.Order.AppService.csprojResolveAssemblyReference.cache
+E:\OpenCommerce\Order\OpenCommerce.Order.AppService\obj\Debug\OpenCommerce.Order.AppService.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.AppService\obj\Debug\OpenCommerce.Order.AppService.pdb

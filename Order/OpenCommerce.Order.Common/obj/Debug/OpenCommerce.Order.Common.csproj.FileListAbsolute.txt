@@ -1,0 +1,4 @@
+E:\OpenCommerce\Order\OpenCommerce.Order.Common\bin\Debug\OpenCommerce.Order.Common.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Common\bin\Debug\OpenCommerce.Order.Common.pdb
+E:\OpenCommerce\Order\OpenCommerce.Order.Common\obj\Debug\OpenCommerce.Order.Common.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Common\obj\Debug\OpenCommerce.Order.Common.pdb

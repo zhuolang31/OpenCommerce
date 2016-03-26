@@ -1,0 +1,5 @@
+E:\OpenCommerce\Order\OpenCommerce.Order.Domain\obj\Debug\OpenCommerce.Order.Domain.csprojResolveAssemblyReference.cache
+E:\OpenCommerce\Order\OpenCommerce.Order.Domain\bin\Debug\OpenCommerce.Order.Domain.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Domain\bin\Debug\OpenCommerce.Order.Domain.pdb
+E:\OpenCommerce\Order\OpenCommerce.Order.Domain\obj\Debug\OpenCommerce.Order.Domain.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Domain\obj\Debug\OpenCommerce.Order.Domain.pdb

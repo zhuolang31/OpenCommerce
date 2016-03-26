@@ -1,0 +1,12 @@
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\obj\Debug\OpenCommerce.Order.Data.csprojResolveAssemblyReference.cache
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\OpenCommerce.Order.Data.dll.config
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\OpenCommerce.Order.Data.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\OpenCommerce.Order.Data.pdb
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\EntityFramework.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\OpenCommerce.Order.Domain.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\OpenCommerce.Order.Domain.pdb
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\EntityFramework.xml
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\obj\Debug\OpenCommerce.Order.Data.dll
+E:\OpenCommerce\Order\OpenCommerce.Order.Data\obj\Debug\OpenCommerce.Order.Data.pdb

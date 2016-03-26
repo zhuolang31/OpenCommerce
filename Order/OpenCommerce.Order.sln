@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCommerce.Order.Domain", "OpenCommerce.Order.Domain\OpenCommerce.Order.Domain.csproj", "{70F52F03-9E82-4B00-8A07-3966832F57A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCommerce.Order.AppService", "OpenCommerce.Order.AppService\OpenCommerce.Order.AppService.csproj", "{B2C74F90-E80F-4D84-B7DC-29F28BD7F085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCommerce.Order.OpenAPI", "OpenCommerce.Order.OpenAPI\OpenCommerce.Order.OpenAPI.csproj", "{130B733C-C781-47C0-8F6C-4112E1DEBC6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCommerce.Order.Admin", "OpenCommerce.Order.Admin\OpenCommerce.Order.Admin.csproj", "{2F005E06-DC4C-48C4-85DD-4625FCA2F662}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresenterLayer", "PresenterLayer", "{69BAC714-6CFB-4881-8062-6D5561C56763}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InfrastructureLayer", "InfrastructureLayer", "{361239EA-D907-4DB0-9276-ABA12211AEBF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainLayer", "DomainLayer", "{9AB355BF-F2C8-44C4-B015-9F193108E229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCommerce.Order.Data", "OpenCommerce.Order.Data\OpenCommerce.Order.Data.csproj", "{B62AE8E6-330A-4EFB-B30F-D73286A2801B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCommerce.Order.Common", "OpenCommerce.Order.Common\OpenCommerce.Order.Common.csproj", "{ACCC7D00-AC3D-4B96-9602-F246AF64F428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F52F03-9E82-4B00-8A07-3966832F57A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F52F03-9E82-4B00-8A07-3966832F57A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F52F03-9E82-4B00-8A07-3966832F57A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F52F03-9E82-4B00-8A07-3966832F57A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C74F90-E80F-4D84-B7DC-29F28BD7F085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C74F90-E80F-4D84-B7DC-29F28BD7F085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C74F90-E80F-4D84-B7DC-29F28BD7F085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C74F90-E80F-4D84-B7DC-29F28BD7F085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130B733C-C781-47C0-8F6C-4112E1DEBC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130B733C-C781-47C0-8F6C-4112E1DEBC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130B733C-C781-47C0-8F6C-4112E1DEBC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130B733C-C781-47C0-8F6C-4112E1DEBC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F005E06-DC4C-48C4-85DD-4625FCA2F662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F005E06-DC4C-48C4-85DD-4625FCA2F662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F005E06-DC4C-48C4-85DD-4625FCA2F662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F005E06-DC4C-48C4-85DD-4625FCA2F662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62AE8E6-330A-4EFB-B30F-D73286A2801B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62AE8E6-330A-4EFB-B30F-D73286A2801B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62AE8E6-330A-4EFB-B30F-D73286A2801B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62AE8E6-330A-4EFB-B30F-D73286A2801B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCC7D00-AC3D-4B96-9602-F246AF64F428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCC7D00-AC3D-4B96-9602-F246AF64F428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCC7D00-AC3D-4B96-9602-F246AF64F428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCC7D00-AC3D-4B96-9602-F246AF64F428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F005E06-DC4C-48C4-85DD-4625FCA2F662} = {69BAC714-6CFB-4881-8062-6D5561C56763}
+		{130B733C-C781-47C0-8F6C-4112E1DEBC6A} = {69BAC714-6CFB-4881-8062-6D5561C56763}
+		{B62AE8E6-330A-4EFB-B30F-D73286A2801B} = {361239EA-D907-4DB0-9276-ABA12211AEBF}
+		{ACCC7D00-AC3D-4B96-9602-F246AF64F428} = {361239EA-D907-4DB0-9276-ABA12211AEBF}
+		{70F52F03-9E82-4B00-8A07-3966832F57A8} = {9AB355BF-F2C8-44C4-B015-9F193108E229}
+		{B2C74F90-E80F-4D84-B7DC-29F28BD7F085} = {9AB355BF-F2C8-44C4-B015-9F193108E229}
+	EndGlobalSection
+EndGlobal
